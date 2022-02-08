@@ -1,0 +1,8 @@
+x = 20
+y = 22
+print('x > y is',x>y)
+print('x < y is',x<y)
+print('x == y is',x==y)
+print('x != y is',x!=y)
+print('x >= y is',x>=y)
+print('x <= y is',x<=y)
